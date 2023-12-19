@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "parallel algorithm to find a number bigger than N/1.0.0": {
+        "runtime": {
+          "parallel algorithm to find a number bigger than N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "parallel algorithm to find a number bigger than N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
